@@ -1,5 +1,6 @@
 <h1 align="center"><b>CS114.L21 - MÁY HỌC - MACHINE LEARNING</b></h1>
 <h1 align="center"><b>BÀI TẬP QUÁ TRÌNH</b></h1>
+<h1 align="center"><b>LỚP CS114.L21.KHCL</b></h1>
 
 ## **Yêu cầu:**
 * Mỗi nhóm tìm vài ví dụ về bài toán regression ***TRONG THỰC TẾ***
@@ -33,7 +34,7 @@
     * Tổng hợp data thành file CSV.
 
 ### 3. **Dự đoán tổng chi phí khi mua thuốc trừ sâu của một thửa ruộng (đơn vị VND).**
-* ***Input***: Diện tích, lượng mưa, khoảng cách từ nơi hiện tại tới chỗ mua thuốc, giá xăng trong ngày, giá thuốc trừ sâu (toàn bộ data có kiểu float).
+* ***Input***: Diện tích, lượng mưa, khoảng cách từ nơi hiện tại tới chỗ mua thuốc, giá xăng trong ngày, trung bình giá thuốc trừ sâu theo tháng (toàn bộ data có kiểu float).
 * ***Output***: Tổng chi phí VND (kiểu float).
 * ***Thu nhập data***:
     * Tổng chi phí và diện tích lấy từ việc khảo sát các hộ nông dân trên địa bàn.
