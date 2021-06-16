@@ -5,7 +5,7 @@ import shutil
 currentNumber = 481
 hashTable = shelve.open("hashTable")
 
-# Outside picture
+# Path
 pathOutside = "F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataRaw\Outside"
 pathInside = "F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataRaw\Inside"
 pathDestination = "F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask"
