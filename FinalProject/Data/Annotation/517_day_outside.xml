@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>TakeData</folder>
+	<filename>517_day_outside.jpg</filename>
+	<path>E:\Studies\Personal\TakeData\517_day_outside.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2016</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1182</xmin>
+			<ymin>3276</ymin>
+			<xmax>1657</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
