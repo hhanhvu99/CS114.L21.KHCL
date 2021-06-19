@@ -2,13 +2,13 @@ import shelve
 import os
 import shutil
 
-currentNumber = 860
+currentNumber = 1034
 hashTable = shelve.open("hashTable")
 
 # Path
-pathOutside = "F:\Phan mem\Hoc Tap\May Hoc\ResultData"
+pathOutside = "F:\Phan mem\Hoc Tap\May Hoc\AnhData3"
 pathInside = "F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataRaw\Inside"
-pathDestination = "F:\Phan mem\Hoc Tap\May Hoc\ResultData2"
+pathDestination = "F:\Phan mem\Hoc Tap\May Hoc\ResultData3"
 
 outside = "outside"
 inside = "inside"
