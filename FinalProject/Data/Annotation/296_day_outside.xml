@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>DataMask</folder>
+	<folder>ConfirmData</folder>
 	<filename>296_day_outside.jpg</filename>
-	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\296_day_outside.jpg</path>
+	<path>E:\Studies\Personal\ConfirmData\296_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>324</ymin>
 			<xmax>232</xmax>
 			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>354</ymin>
+			<xmax>257</xmax>
+			<ymax>370</ymax>
 		</bndbox>
 	</object>
 </annotation>
