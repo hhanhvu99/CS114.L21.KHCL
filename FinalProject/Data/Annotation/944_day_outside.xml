@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DataMask</folder>
+	<filename>944_day_outside.jpg</filename>
+	<path>D:\AI\1\DataMask\944_day_outside.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2016</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>2581</ymin>
+			<xmax>1387</xmax>
+			<ymax>3096</ymax>
+		</bndbox>
+	</object>
+</annotation>
