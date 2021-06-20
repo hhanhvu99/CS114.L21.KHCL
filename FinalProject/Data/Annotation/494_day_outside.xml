@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>TakeData</folder>
+	<folder>DataMask</folder>
 	<filename>494_day_outside.jpg</filename>
-	<path>E:\Studies\Personal\TakeData\494_day_outside.jpg</path>
+	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\494_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>710</xmin>
 			<ymin>2488</ymin>
-			<xmax>1158</xmax>
-			<ymax>2720</ymax>
+			<xmax>1163</xmax>
+			<ymax>2704</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>686</xmin>
-			<ymin>3092</ymin>
-			<xmax>1250</xmax>
-			<ymax>3468</ymax>
+			<xmin>670</xmin>
+			<ymin>3084</ymin>
+			<xmax>1282</xmax>
+			<ymax>3619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>2079</ymin>
+			<xmax>1063</xmax>
+			<ymax>2227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>959</xmin>
+			<ymin>1945</ymin>
+			<xmax>1061</xmax>
+			<ymax>2073</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>1775</ymin>
+			<xmax>1020</xmax>
+			<ymax>1899</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>948</xmin>
+			<ymin>1703</ymin>
+			<xmax>1011</xmax>
+			<ymax>1773</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>1877</ymin>
+			<xmax>935</xmax>
+			<ymax>1947</ymax>
 		</bndbox>
 	</object>
 </annotation>

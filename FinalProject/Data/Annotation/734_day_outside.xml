@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>TakeData</folder>
+	<folder>DataMask</folder>
 	<filename>734_day_outside.jpg</filename>
-	<path>E:\Studies\Personal\TakeData\734_day_outside.jpg</path>
+	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\734_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>742</xmin>
-			<ymin>2448</ymin>
-			<xmax>1434</xmax>
-			<ymax>2600</ymax>
+			<xmin>691</xmin>
+			<ymin>2391</ymin>
+			<xmax>1414</xmax>
+			<ymax>2642</ymax>
 		</bndbox>
 	</object>
 </annotation>
