@@ -1,7 +1,7 @@
-<annotation verified="yes">
+<annotation>
 	<folder>DataMask</folder>
 	<filename>982_day_outside.jpg</filename>
-	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\982_day_outside.jpg</path>
+	<path>D:\AI\1\DataMask\982_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,82 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>215</xmin>
-			<ymin>2092</ymin>
-			<xmax>785</xmax>
-			<ymax>2183</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>494</xmin>
-			<ymin>2017</ymin>
-			<xmax>910</xmax>
-			<ymax>2078</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>919</xmin>
-			<ymin>1996</ymin>
-			<xmax>1103</xmax>
-			<ymax>2073</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1422</xmin>
-			<ymin>2040</ymin>
-			<xmax>1683</xmax>
-			<ymax>2119</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>581</xmin>
-			<ymin>2662</ymin>
-			<xmax>1504</xmax>
-			<ymax>3023</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1890</xmin>
-			<ymin>1885</ymin>
-			<xmax>1962</xmax>
-			<ymax>1908</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1927</xmin>
-			<ymin>1866</ymin>
-			<xmax>1973</xmax>
-			<ymax>1884</ymax>
+			<xmin>261</xmin>
+			<ymin>2088</ymin>
+			<xmax>722</xmax>
+			<ymax>2186</ymax>
 		</bndbox>
 	</object>
 </annotation>

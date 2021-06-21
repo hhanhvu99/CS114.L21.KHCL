@@ -1,7 +1,7 @@
-<annotation verified="yes">
+<annotation>
 	<folder>DataMask</folder>
 	<filename>911_day_outside.jpg</filename>
-	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\911_day_outside.jpg</path>
+	<path>D:\AI\1\DataMask\911_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>775</xmin>
-			<ymin>2024</ymin>
-			<xmax>1397</xmax>
-			<ymax>2100</ymax>
+			<xmin>659</xmin>
+			<ymin>2019</ymin>
+			<xmax>1352</xmax>
+			<ymax>2121</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,8 +29,8 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1560</xmin>
-			<ymin>2038</ymin>
+			<xmin>1585</xmin>
+			<ymin>2047</ymin>
 			<xmax>2016</xmax>
 			<ymax>2119</ymax>
 		</bndbox>
@@ -38,13 +38,13 @@
 	<object>
 		<name>hole</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>2229</ymin>
-			<xmax>1459</xmax>
-			<ymax>2521</ymax>
+			<xmin>11</xmin>
+			<ymin>2224</ymin>
+			<xmax>1470</xmax>
+			<ymax>2516</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,8 +90,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>911</xmin>
-			<ymin>1945</ymin>
-			<xmax>1478</xmax>
+			<ymin>1915</ymin>
+			<xmax>1475</xmax>
 			<ymax>2027</ymax>
 		</bndbox>
 	</object>
@@ -105,30 +105,6 @@
 			<ymin>1847</ymin>
 			<xmax>775</xmax>
 			<ymax>1914</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1017</xmin>
-			<ymin>2161</ymin>
-			<xmax>1498</xmax>
-			<ymax>2240</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>737</xmin>
-			<ymin>2098</ymin>
-			<xmax>1129</xmax>
-			<ymax>2156</ymax>
 		</bndbox>
 	</object>
 </annotation>

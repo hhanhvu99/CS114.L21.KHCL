@@ -1,7 +1,7 @@
-<annotation verified="yes">
+<annotation>
 	<folder>DataMask</folder>
 	<filename>866_day_outside.jpg</filename>
-	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\866_day_outside.jpg</path>
+	<path>D:\AI\1\DataMask\866_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>674</xmin>
-			<ymin>2269</ymin>
-			<xmax>1326</xmax>
-			<ymax>2547</ymax>
+			<xmin>726</xmin>
+			<ymin>2297</ymin>
+			<xmax>1263</xmax>
+			<ymax>2540</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1208</xmin>
-			<ymin>2103</ymin>
-			<xmax>1572</xmax>
+			<xmin>1281</xmin>
+			<ymin>2129</ymin>
+			<xmax>1508</xmax>
 			<ymax>2215</ymax>
 		</bndbox>
 	</object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>157</xmin>
-			<ymin>2165</ymin>
-			<xmax>579</xmax>
+			<xmin>238</xmin>
+			<ymin>2163</ymin>
+			<xmax>565</xmax>
 			<ymax>2270</ymax>
 		</bndbox>
 	</object>
@@ -149,9 +149,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>527</xmin>
-			<ymin>1852</ymin>
-			<xmax>636</xmax>
+			<xmin>548</xmin>
+			<ymin>1855</ymin>
+			<xmax>603</xmax>
 			<ymax>1865</ymax>
 		</bndbox>
 	</object>
@@ -165,30 +165,6 @@
 			<ymin>1996</ymin>
 			<xmax>935</xmax>
 			<ymax>2043</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>312</xmin>
-			<ymin>1925</ymin>
-			<xmax>1292</xmax>
-			<ymax>1993</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1294</xmin>
-			<ymin>1925</ymin>
-			<xmax>1878</xmax>
-			<ymax>1994</ymax>
 		</bndbox>
 	</object>
 </annotation>
