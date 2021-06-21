@@ -1,7 +1,7 @@
-<annotation>
+<annotation verified="yes">
 	<folder>DataMask</folder>
 	<filename>935_day_outside.jpg</filename>
-	<path>D:\AI\1\DataMask\935_day_outside.jpg</path>
+	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\935_day_outside.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1111</xmin>
-			<ymin>2956</ymin>
+			<xmin>958</xmin>
+			<ymin>2874</ymin>
 			<xmax>1733</xmax>
 			<ymax>3290</ymax>
 		</bndbox>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>2716</ymin>
-			<xmax>481</xmax>
-			<ymax>2847</ymax>
+			<xmin>150</xmin>
+			<ymin>2692</ymin>
+			<xmax>474</xmax>
+			<ymax>2858</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>2456</ymin>
-			<xmax>511</xmax>
-			<ymax>2595</ymax>
+			<xmin>81</xmin>
+			<ymin>2443</ymin>
+			<xmax>527</xmax>
+			<ymax>2599</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>2145</ymin>
-			<xmax>798</xmax>
-			<ymax>2227</ymax>
+			<xmin>424</xmin>
+			<ymin>2138</ymin>
+			<xmax>813</xmax>
+			<ymax>2220</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,8 +77,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>232</xmin>
-			<ymin>1942</ymin>
+			<xmin>184</xmin>
+			<ymin>1941</ymin>
 			<xmax>525</xmax>
 			<ymax>2002</ymax>
 		</bndbox>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1132</xmin>
-			<ymin>2068</ymin>
-			<xmax>1461</xmax>
-			<ymax>2179</ymax>
+			<xmin>1120</xmin>
+			<ymin>2078</ymin>
+			<xmax>1449</xmax>
+			<ymax>2189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1066</xmin>
-			<ymin>2468</ymin>
-			<xmax>1364</xmax>
-			<ymax>2620</ymax>
+			<xmin>1032</xmin>
+			<ymin>2437</ymin>
+			<xmax>1438</xmax>
+			<ymax>2635</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>825</xmin>
-			<ymin>2261</ymin>
-			<xmax>971</xmax>
-			<ymax>2342</ymax>
+			<xmin>789</xmin>
+			<ymin>2249</ymin>
+			<xmax>988</xmax>
+			<ymax>2346</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1090</xmin>
-			<ymin>1949</ymin>
-			<xmax>1194</xmax>
-			<ymax>1995</ymax>
+			<xmin>863</xmin>
+			<ymin>1925</ymin>
+			<xmax>1678</xmax>
+			<ymax>1999</ymax>
 		</bndbox>
 	</object>
 </annotation>
