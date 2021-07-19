@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>DataMask</folder>
+	<filename>105_day_outside.JPG</filename>
+	<path>F:\Phan mem\Hoc Tap\May Hoc\CS114.L21.KHCL\FinalProject\Data\DataMask\105_day_outside.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>931</xmin>
+			<ymin>1729</ymin>
+			<xmax>1100</xmax>
+			<ymax>1755</ymax>
+		</bndbox>
+	</object>
+</annotation>

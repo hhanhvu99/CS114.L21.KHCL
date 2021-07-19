@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ConfirmData</folder>
+	<filename>8_night_outside.JPG</filename>
+	<path>E:\Studies\Personal\ConfirmData\8_night_outside.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2023</xmin>
+			<ymin>2204</ymin>
+			<xmax>2274</xmax>
+			<ymax>2394</ymax>
+		</bndbox>
+	</object>
+</annotation>

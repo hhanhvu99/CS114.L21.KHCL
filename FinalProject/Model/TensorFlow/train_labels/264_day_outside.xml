@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ConfirmData</folder>
+	<filename>264_day_outside.JPG</filename>
+	<path>E:\Studies\Personal\ConfirmData\264_day_outside.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1596</xmin>
+			<ymin>1523</ymin>
+			<xmax>1635</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>
