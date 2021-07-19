@@ -68,8 +68,9 @@ def copy_images(src_path: str, des_path: str):
 
 	for item in os.listdir(src_path):
 		count += 1
+		name = item.split('.')[0]
 		s = os.path.join(os.path.abspath(src_path), item)
-		d = os.path.join(os.path.abspath(des_path), item)
+		d = os.path.join(os.path.abspath(des_path), name + '.jpg')
 		if os.path.isdir(s):
 			shutil.copytree(s, d, False, None)
 		else:
