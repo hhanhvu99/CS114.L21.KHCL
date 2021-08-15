@@ -5,8 +5,7 @@ Model: Chứa toàn bộ model trong project
 VideoDemo: Chứa video demo và video test, video nằm trong trong Drive của nhóm
 changeName.py: Code này đổi tên các ảnh trong DataRaw và đổi tên theo đúng định dạng, đồng thời dùng hash table để lưu lại đã lấy ảnh nào
 cropImage.py: Code này dùng để crop ảnh, do trong ảnh chụp có vài ảnh bị dính viền đen, tuy nhiên phải bỏ các ảnh cần crop ra một folder riêng
-FinalProject.ipynb: File báo cáo trên Colab Notebook
+HoleDetection.ipynb: File Code trên Colab Notebook
 
-Link tới Notebook báo cáo: https://colab.research.google.com/drive/1UfP0SzSHMoIbwq335GHgCttT4R9khTt6?usp=sharing
 Link tới Code: https://colab.research.google.com/drive/1cggN1ZgQVXAI4Z4GSreEL2f7ElGMGP-z?usp=sharing
 Link tới Drive của nhóm: https://drive.google.com/drive/folders/193pFSQOp_MaPjkH90t28oTm6ihsvRrNK?usp=sharing
